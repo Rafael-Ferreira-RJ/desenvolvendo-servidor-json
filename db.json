@@ -1,0 +1,143 @@
+{
+    "Educação": [
+        {
+            "id": 1,
+            "nome": "Pai Rico, Pai Pobre",
+            "autor": "Robert T. Kiyosaki",
+            "editora": "Alta Books",
+            "idioma": "Português",
+            "páginas": "336",
+            "ano de edição": "2018"
+        },
+        {
+            "id": 2,
+            "nome": "Pedagogia do Oprimido",
+            "autor": "Paulo Freire",
+            "editora": "Paz & Terra",
+            "idioma": "Português",
+            "páginas": "256",
+            "ano de edição": "2019"
+        },
+        {
+            "id": 3,
+            "nome": "Investimentos inteligentes",
+            "autor": "Gustavo Cerbasi",
+            "editora": "Editora Sextante",
+            "idioma": "Português",
+            "páginas": "256",
+            "ano de edição": "1999"
+        },
+        {
+            "id": 4,
+            "nome": "20 regras de ouro para educar filhos e alunos",
+            "autor": "Augusto Cury",
+            "editora": "Academia",
+            "idioma": "Português",
+            "páginas": "208",
+            "ano de edição": "2017"
+        },
+        {
+            "id": 5,
+            "nome": "Pais brilhantes, professores fascinantes",
+            "autor": "Augusto Cury",
+            "editora": "Editora Sextante",
+            "idioma": "Português",
+            "páginas": "176",
+            "ano de edição": "2018"
+        }
+    ],
+    "Ficção": [
+        {
+            "id": 1,
+            "nome": "É assim que acaba",
+            "autor": "Colleen Hoover",
+            "editora": "Galera",
+            "idioma": "Português",
+            "páginas": "368",
+            "ano de edição": "2018"
+        },
+        {
+            "id": 2,
+            "nome": "A revolução dos bichos",
+            "autor": "George Orwell",
+            "editora": "Companhia das Letras",
+            "idioma": "Português",
+            "páginas": "152",
+            "ano de edição": "2007"
+        },
+        {
+            "id": 3,
+            "nome": "O Diário Perdido de Gravity Falls",
+            "autor": "Alex Hirsch",
+            "editora": "Universo dos Livros",
+            "idioma": "Português",
+            "páginas": "288",
+            "ano de edição": "2020"
+        },
+        {
+            "id": 4,
+            "nome": "Os sete maridos de Evelyn Hugo",
+            "autor": "Taylor Jenkins Reid",
+            "editora": "Paralela",
+            "idioma": "Português",
+            "páginas": "360",
+            "ano de edição": "2019"
+        },
+        {
+            "id": 5,
+            "nome": "A garota do lago",
+            "autor": "Charlie Donlea",
+            "editora": "Faro Editorial",
+            "idioma": "Português",
+            "páginas": "296",
+            "ano de edição": "2017"
+        }
+    ],
+    "Esporte & Lazer": [
+        {
+            "id": 1,
+            "nome": "Federer",
+            "autor": "Christopher Clarey",
+            "editora": "Intrínseca",
+            "idioma": "Português",
+            "páginas": "432",
+            "ano de edição": "2021"
+        },
+        {
+            "id": 2,
+            "nome": "Guardiola confidencial",
+            "autor": "Perarnau Martí",
+            "editora": "Editora Grande Área",
+            "idioma": "Português",
+            "páginas": "416",
+            "ano de edição": "2015"
+        },
+        {
+            "id": 3,
+            "nome": "A História do Futebol para quem tem pressa",
+            "autor": "Márcio Trevisan",
+            "editora": "Valentina",
+            "idioma": "Português",
+            "páginas": "200",
+            "ano de edição": "2019"
+        },
+        {
+            "id": 4,
+            "nome": "Escola brasileira de futebol",
+            "autor": "Paulo Vinícius Coelho (PVC)",
+            "editora": "Objetiva",
+            "idioma": "Português",
+            "páginas": "294",
+            "ano de edição": "2018"
+        },
+        {
+            "id": 5,
+            "nome": "O algoritmo da vitória",
+            "autor": "José Salibi Neto",
+            "editora": "Planeta Estratégia",
+            "idioma": "Português",
+            "páginas": "320",
+            "ano de edição": "2020"
+        }
+    ]
+}
