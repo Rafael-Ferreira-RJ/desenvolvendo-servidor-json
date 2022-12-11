@@ -1,5 +1,5 @@
 {
-    "Educação": [
+    "educacao": [
         {
             "id": 1,
             "nome": "Pai Rico, Pai Pobre",
@@ -46,9 +46,9 @@
             "ano de edição": "2018"
         }
     ],
-    "Ficção": [
+    "ficcao": [
         {
-            "id": 1,
+            "id": 6,
             "nome": "É assim que acaba",
             "autor": "Colleen Hoover",
             "editora": "Galera",
@@ -57,7 +57,7 @@
             "ano de edição": "2018"
         },
         {
-            "id": 2,
+            "id": 7,
             "nome": "A revolução dos bichos",
             "autor": "George Orwell",
             "editora": "Companhia das Letras",
@@ -66,7 +66,7 @@
             "ano de edição": "2007"
         },
         {
-            "id": 3,
+            "id": 8,
             "nome": "O Diário Perdido de Gravity Falls",
             "autor": "Alex Hirsch",
             "editora": "Universo dos Livros",
@@ -75,7 +75,7 @@
             "ano de edição": "2020"
         },
         {
-            "id": 4,
+            "id": 9,
             "nome": "Os sete maridos de Evelyn Hugo",
             "autor": "Taylor Jenkins Reid",
             "editora": "Paralela",
@@ -84,7 +84,7 @@
             "ano de edição": "2019"
         },
         {
-            "id": 5,
+            "id": 10,
             "nome": "A garota do lago",
             "autor": "Charlie Donlea",
             "editora": "Faro Editorial",
@@ -93,9 +93,9 @@
             "ano de edição": "2017"
         }
     ],
-    "Esporte & Lazer": [
+    "esporte": [
         {
-            "id": 1,
+            "id": 11,
             "nome": "Federer",
             "autor": "Christopher Clarey",
             "editora": "Intrínseca",
@@ -104,7 +104,7 @@
             "ano de edição": "2021"
         },
         {
-            "id": 2,
+            "id": 12,
             "nome": "Guardiola confidencial",
             "autor": "Perarnau Martí",
             "editora": "Editora Grande Área",
@@ -113,7 +113,7 @@
             "ano de edição": "2015"
         },
         {
-            "id": 3,
+            "id": 13,
             "nome": "A História do Futebol para quem tem pressa",
             "autor": "Márcio Trevisan",
             "editora": "Valentina",
@@ -122,7 +122,7 @@
             "ano de edição": "2019"
         },
         {
-            "id": 4,
+            "id": 14,
             "nome": "Escola brasileira de futebol",
             "autor": "Paulo Vinícius Coelho (PVC)",
             "editora": "Objetiva",
@@ -131,7 +131,7 @@
             "ano de edição": "2018"
         },
         {
-            "id": 5,
+            "id": 15,
             "nome": "O algoritmo da vitória",
             "autor": "José Salibi Neto",
             "editora": "Planeta Estratégia",
