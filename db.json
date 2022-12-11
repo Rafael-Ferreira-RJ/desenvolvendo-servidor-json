@@ -1,5 +1,5 @@
 {
-    "educacao": [
+    "livros": [
         {
             "id": 1,
             "nome": "Pai Rico, Pai Pobre",
@@ -44,9 +44,7 @@
             "idioma": "Português",
             "páginas": "176",
             "ano de edição": "2018"
-        }
-    ],
-    "ficcao": [
+        },
         {
             "id": 6,
             "nome": "É assim que acaba",
@@ -91,9 +89,7 @@
             "idioma": "Português",
             "páginas": "296",
             "ano de edição": "2017"
-        }
-    ],
-    "esporte": [
+        },
         {
             "id": 11,
             "nome": "Federer",
